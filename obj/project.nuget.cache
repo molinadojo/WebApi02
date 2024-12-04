@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1+lKyzNhhyJI41kYI8DV1wz9Q8ywnznBGrprUZ3PZf6JskMjhVsil9LlPA1ggAw1lx85YKGQzMyA+7vqmlekg==",
+  "success": true,
+  "projectFilePath": "C:\\PUNTACODE\\C# .NET\\ASP.NET Core Web API\\WebApiSQL\\WebApiSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\holat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\holat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\holat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\holat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\holat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\holat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
