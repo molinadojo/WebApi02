@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebApiSQL.Models;
 
 namespace WebApiSQL.Controllers //de donde sale
 {
@@ -11,11 +12,26 @@ namespace WebApiSQL.Controllers //de donde sale
         public dynamic listarCliente()
         {
             // todo el codigo que deseemos
-            return new
+            List<Cliente> clientes = new List<Cliente>
             {
-                nombre = "lautaro",
-                apellido = "Molina"
+                new Cliente
+                {
+                    id = 1,
+                    nombre = "lautarito molina",
+                    edad = "30",
+                    correo = "googleso@gmailcom",
+
+                },
+                new Cliente
+                {
+                    id = 2,
+                    nombre = "lucho molina",
+                    edad = "14",
+                    correo = "algo@gmailcom",
+
+                }
             };
+            return clientes;
         }
     }
 }
